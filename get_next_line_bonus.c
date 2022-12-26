@@ -6,11 +6,11 @@
 /*   By: msilva-p <msilva-p@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/12 18:08:07 by msilva-p          #+#    #+#             */
-/*   Updated: 2022/08/14 00:47:46 by msilva-p         ###   ########.fr       */
+/*   Updated: 2022/08/15 17:37:14 by msilva-p         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	check_buffer(char **buffer, char **line)
 {
